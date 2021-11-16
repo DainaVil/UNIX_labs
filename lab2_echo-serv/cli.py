@@ -1,7 +1,7 @@
 import socket
 
 sock = socket.socket()
-sock.connect(('localhost',8080))
+sock.connect(('localhost',9090))
 while True:
     message = input()
     sock.send(message.encode())
