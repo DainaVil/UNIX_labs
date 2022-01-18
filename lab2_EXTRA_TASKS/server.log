@@ -1,0 +1,117 @@
+INFO:echo: new connection (<socket.socket fd=7, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 9090), raddr=('127.0.0.1', 63144)>, ('127.0.0.1', 63144)) 2021-12-23 15:24:27.291154
+INFO:echo: new message hi 2021-12-23 15:24:31.257477
+INFO:echo: new message hihi 2021-12-23 15:24:32.545843
+INFO:echo: new message exit 2021-12-23 15:24:34.857612
+INFO:echo: disconnected (<socket.socket [closed] fd=-1, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0>, 0) 2021-12-23 15:24:34.858416
+INFO:echo:listeting to ('localhost', 9090)
+INFO:echo: new connection (<socket.socket fd=7, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 9090), raddr=('127.0.0.1', 63373)>, ('127.0.0.1', 63373)) 2021-12-23 15:51:19.610781
+INFO:echo: new message GET / HTTP/1.1
+Host: localhost:9090
+Connection: keep-alive
+sec-ch-ua: " Not A;Brand";v="99", "Chromium";v="96", "Google Chrome";v="96"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "macOS"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+ 2021-12-23 15:51:19.631622
+INFO:echo: new message  2021-12-23 15:51:19.646530
+INFO:echo:listeting to ('localhost', 9090)
+INFO:echo: new connection (<socket.socket fd=8, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 9090), raddr=('127.0.0.1', 63375)>, ('127.0.0.1', 63375)) 2021-12-23 15:51:19.676905
+INFO:echo: new message GET / HTTP/1.1
+Host: localhost:9090
+Connection: keep-alive
+Cache-Control: max-age=0
+sec-ch-ua: " Not A;Brand";v="99", "Chromium";v="96", "Google Chrome";v="96"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "macOS"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+ 2021-12-23 15:51:20.724826
+INFO:echo: new message  2021-12-23 15:51:20.743665
+INFO:echo:listeting to ('localhost', 9090)
+INFO:echo: new connection (<socket.socket fd=7, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 9090), raddr=('127.0.0.1', 63377)>, ('127.0.0.1', 63377)) 2021-12-23 15:51:20.744494
+INFO:echo: new message GET / HTTP/1.1
+Host: localhost:9090
+Connection: keep-alive
+Cache-Control: max-age=0
+sec-ch-ua: " Not A;Brand";v="99", "Chromium";v="96", "Google Chrome";v="96"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "macOS"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+ 2021-12-23 15:51:25.805617
+INFO:echo: new message  2021-12-23 15:51:25.817646
+INFO:echo:listeting to ('localhost', 9090)
+INFO:echo: new connection (<socket.socket fd=8, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 9090), raddr=('127.0.0.1', 63379)>, ('127.0.0.1', 63379)) 2021-12-23 15:51:25.818253
+INFO:echo: new message GET / HTTP/1.1
+Host: localhost:9090
+Connection: keep-alive
+Cache-Control: max-age=0
+sec-ch-ua: " Not A;Brand";v="99", "Chromium";v="96", "Google Chrome";v="96"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "macOS"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+ 2021-12-23 15:51:55.967990
+INFO:echo: new message  2021-12-23 15:51:55.980501
+INFO:echo:listeting to ('localhost', 9090)
+INFO:echo: new connection (<socket.socket fd=7, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 9090), raddr=('127.0.0.1', 63381)>, ('127.0.0.1', 63381)) 2021-12-23 15:51:55.994305
+INFO:echo:listeting to ('localhost', 9090)
+INFO:echo: new connection (<socket.socket fd=7, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 9090), raddr=('127.0.0.1', 60716)>, ('127.0.0.1', 60716)) 2021-12-23 15:57:57.174828
+INFO:echo: new message  2021-12-23 15:58:01.916006
+INFO:echo:listeting to ('localhost', 9090)
+INFO:echo: new connection (<socket.socket fd=8, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 9090), raddr=('127.0.0.1', 60747)>, ('127.0.0.1', 60747)) 2021-12-23 16:01:41.890225
+INFO:echo: new message hi 2021-12-23 16:01:48.522074
+INFO:echo: new message hello 2021-12-23 16:01:50.702965
+INFO:echo: new message exit 2021-12-23 16:01:52.119931
+INFO:echo: disconnected (<socket.socket [closed] fd=-1, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0>, 0) 2021-12-23 16:01:52.120457
+INFO:echo:listeting to ('localhost', 9090)
+INFO:echo:listeting to ('localhost', 9090)
+INFO:echo:listeting to ('localhost', 90)
+INFO:echo:listeting to ('localhost', 9090)
+INFO:echo: new connection (<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 9090), raddr=('127.0.0.1', 61739)>, ('127.0.0.1', 61739)) 2021-12-23 16:07:50.587865
+INFO:echo: new message hi 2021-12-23 16:11:55.962516
+INFO:echo:listeting to ('localhost', 9090)
+INFO:echo:listeting to ('localhost', 9090)
+INFO:echo: new connection (<socket.socket fd=7, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 9090), raddr=('127.0.0.1', 55695)>, ('127.0.0.1', 55695)) 2021-12-23 16:41:24.016560
+INFO:echo: new message hi 2021-12-23 16:41:36.052261
+INFO:echo: new message hihi 2021-12-23 16:41:38.097649
+INFO:echo: new message exit 2021-12-23 16:41:41.734745
+INFO:echo: disconnected (<socket.socket [closed] fd=-1, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0>, 0) 2021-12-23 16:41:41.735145
+INFO:echo:listeting to ('localhost', 9090)
+INFO:echo:listeting to ('localhost', 9090)
+INFO:echo: new connection (<socket.socket fd=7, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 9090), raddr=('127.0.0.1', 55821)>, ('127.0.0.1', 55821)) 2021-12-23 19:26:01.759502
+INFO:echo: new message hi 2021-12-23 19:26:07.267125
+INFO:echo: new message hi 2021-12-23 19:26:08.808836
